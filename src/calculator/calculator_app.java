@@ -59,7 +59,7 @@ public class calculator_app extends javax.swing.JFrame {
         dot_btn.setEnabled(false);
         multiple_btn.setEnabled(false);
         plus_btn.setEnabled(false);
-        
+        //jd
         
         
     }
